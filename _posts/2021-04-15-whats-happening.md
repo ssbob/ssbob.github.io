@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Post: What's Happening?"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
