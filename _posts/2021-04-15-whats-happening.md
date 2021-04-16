@@ -4,9 +4,10 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - learning
+  - careers
+  - change
+  - software
 ---
 
 So, first post and all that, what to write ... let's talk about careers, change, self-learning.
