@@ -11,5 +11,4 @@ A little bit about me:
 4. Full time sales engineer at a software company
 5. Going to grad school to get my MBA (starting late 2021)
 6. Lover of all things Land Cruisers
-7. Soon to buy BMW M owner
-
+7. Soon to be a BMW M owner
