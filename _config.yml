@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sean Fay"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "40 something dad and husband, self-taught developer, sales engineer, and soon to be MBA student."
+  name: "Sean Fay"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "40 something dad and husband, self-taught developer, sales engineer, and soon to be MBA student."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -76,7 +76,6 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sean-fay-8a598b9/"
 
-
 footer:
   links:
     - label: "Twitter"
@@ -88,6 +87,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ssbob/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sean-fay-8a598b9/"
 
 defaults:
   # _posts
